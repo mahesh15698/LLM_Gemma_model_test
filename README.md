@@ -2,13 +2,22 @@
 ## Overview
 This repository contains a tutorial notebook demonstrating how to fine-tune Gemma models using KerasNLP with JAX backend. Gemma is a family of lightweight, state-of-the-art open models developed by Google, designed to assist developers and researchers in building AI responsibly.
 
+![Gemma](https://github.com/mahesh15698/LLM_Gemma_model_test/blob/main/gemma.JPG)
+
 In this tutorial, we'll cover the following steps:
 
 Setting up Gemma with JAX backend
+
 Creating a Gemma model for text generation
+
 Generating text responses using Gemma models
+
 Fine-tuning Gemma models using Low Rank Adaptation (LoRA) with the Databricks Dolly 15k dataset
+
 Performing inference before and after fine-tuning
+
+
+![Gemma](https://github.com/mahesh15698/LLM_Gemma_model_test/blob/main/Capture.JPG)
 ## Notebook Details
 GemmaLLMExample&setup.ipynb: This notebook serves as the tutorial guide, providing step-by-step instructions on setting up Gemma, creating a model, generating text, and fine-tuning the model using LoRA.
 ## Usage
