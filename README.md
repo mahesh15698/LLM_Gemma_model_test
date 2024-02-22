@@ -27,9 +27,14 @@ Clone this repository to your local machine.
 Open the notebook GemmaLLMExample&setup.ipynb in a Jupyter Notebook environment or Google Colab.
 Follow the instructions provided in the notebook to set up Gemma, create and fine-tune the model, and perform text generation.
 ## Requirements
+
 Python 3.x
+
 Google Colab
+
 Libraries: Keras 3, KerasNLP, JAX
+
+Kaggle Account
 ## Acknowledgements
 This tutorial notebook was created as part of an educational initiative to demonstrate the usage of Gemma models for natural language processing tasks. Special thanks to Google for developing Gemma and KerasNLP.
 
